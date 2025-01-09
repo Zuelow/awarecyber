@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/awarecyber/static/css/main.126bd288.css",
-    "main.js": "/awarecyber/static/js/main.a2babd1a.js",
+    "main.js": "/awarecyber/static/js/main.4968de5b.js",
     "static/media/logo.png": "/awarecyber/static/media/logo.2e9629f719d3c3dd30bf.png",
     "index.html": "/awarecyber/index.html",
     "main.126bd288.css.map": "/awarecyber/static/css/main.126bd288.css.map",
-    "main.a2babd1a.js.map": "/awarecyber/static/js/main.a2babd1a.js.map"
+    "main.4968de5b.js.map": "/awarecyber/static/js/main.4968de5b.js.map"
   },
   "entrypoints": [
     "static/css/main.126bd288.css",
-    "static/js/main.a2babd1a.js"
+    "static/js/main.4968de5b.js"
   ]
 }
