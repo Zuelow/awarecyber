@@ -1,10 +1,22 @@
 {
   "files": {
-    "main.js": "/awarecyber/static/js/main.2ae26960.js",
+    "main.css": "/awarecyber/static/css/main.126bd288.css",
+    "main.js": "/awarecyber/static/js/main.a6d1cf74.js",
     "index.html": "/awarecyber/index.html",
-    "main.2ae26960.js.map": "/awarecyber/static/js/main.2ae26960.js.map"
+    "static/media/phishing.svg": "/awarecyber/static/media/phishing.90cf8ac16cd06fc9ab4ffc0b208c7d58.svg",
+    "static/media/psychology.svg": "/awarecyber/static/media/psychology.b6b098b2cfc397d008af3056c658ba0c.svg",
+    "static/media/new-releases.svg": "/awarecyber/static/media/new-releases.78626d054d2e283be05c327d853f6845.svg",
+    "static/media/malware.svg": "/awarecyber/static/media/malware.80cbdffb4399c45777aeec5c5731a5fc.svg",
+    "static/media/security.svg": "/awarecyber/static/media/security.4fdee221d4e518ed1ba9511a12c9a0c6.svg",
+    "static/media/folder.svg": "/awarecyber/static/media/folder.c3045b759e37c739f6694fa896dffea8.svg",
+    "static/media/account-tree.svg": "/awarecyber/static/media/account-tree.656f115c18c4b31ac2c5672ff266fdd4.svg",
+    "static/media/code.svg": "/awarecyber/static/media/code.37a06972a7f405e2aaec7a4c918148ff.svg",
+    "static/media/download.svg": "/awarecyber/static/media/download.6785ffd01b032af6dc7d3bfc0b7d24c0.svg",
+    "main.126bd288.css.map": "/awarecyber/static/css/main.126bd288.css.map",
+    "main.a6d1cf74.js.map": "/awarecyber/static/js/main.a6d1cf74.js.map"
   },
   "entrypoints": [
-    "static/js/main.2ae26960.js"
+    "static/css/main.126bd288.css",
+    "static/js/main.a6d1cf74.js"
   ]
 }
